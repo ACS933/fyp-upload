@@ -12,4 +12,5 @@ on this github repo you can find the technical report for the project. in partic
 it's admittedly a little jumbled in those directories so feel free to email me any enquiries at alex181200@gmail.com 
 
 
-
+note: the project report names the author as 'Alex Smith' - this *is* me but it's my deadname, so maybe pretend you didn't read it~
+cheers, Alicia Smith
